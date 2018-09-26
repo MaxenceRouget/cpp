@@ -1,3 +1,8 @@
+/*!\file lib.pp
+*\brief in
+*\author Maxence
+*\version 1.0
+*/
 
 #include "lib.h"
 

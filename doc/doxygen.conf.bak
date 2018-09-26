@@ -1,0 +1,8 @@
+PROJECT_NAME='cpp'
+INPUT = ../src
+OUTPUT_DIRECTORY = './'
+GENERATE_HTML = YES 
+HTML_OUTPUT = './html'
+HTML_FILE_EXTENSION = '.html'
+
+
