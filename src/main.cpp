@@ -11,13 +11,12 @@ int main() {
     int b = 3;
 
     lib lib1;
-    lib lib2:
-    lib lib3;
+
     std::cout<<"le resultat est : "<<lib1.somme(a,b)<<std::endl;
 
-    std::cout<<"le resultat est : "<<lib2.mult(a,b)<<std::endl;
+    std::cout<<"le resultat est : "<<lib1.bi(a,b)<<std::endl;
 
-    std::cout<<"le resultat est : "<<lib3.div(a,b)<<std::endl;
+    std::cout<<"le resultat est : "<<lib1.div(a,b)<<std::endl;
 
     return 0;
   }
